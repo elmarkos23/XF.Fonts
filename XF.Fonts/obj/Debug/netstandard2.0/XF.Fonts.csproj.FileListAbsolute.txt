@@ -1,0 +1,12 @@
+C:\Users\admin\Documents\GitHub\XF.Fonts\XF.Fonts\XF.Fonts\bin\Debug\netstandard2.0\XF.Fonts.deps.json
+C:\Users\admin\Documents\GitHub\XF.Fonts\XF.Fonts\XF.Fonts\bin\Debug\netstandard2.0\XF.Fonts.dll
+C:\Users\admin\Documents\GitHub\XF.Fonts\XF.Fonts\XF.Fonts\bin\Debug\netstandard2.0\XF.Fonts.pdb
+C:\Users\admin\Documents\GitHub\XF.Fonts\XF.Fonts\XF.Fonts\obj\Debug\netstandard2.0\XF.Fonts.csprojAssemblyReference.cache
+C:\Users\admin\Documents\GitHub\XF.Fonts\XF.Fonts\XF.Fonts\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\admin\Documents\GitHub\XF.Fonts\XF.Fonts\XF.Fonts\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\admin\Documents\GitHub\XF.Fonts\XF.Fonts\XF.Fonts\obj\Debug\netstandard2.0\XF.Fonts.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\XF.Fonts\XF.Fonts\XF.Fonts\obj\Debug\netstandard2.0\XF.Fonts.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\GitHub\XF.Fonts\XF.Fonts\XF.Fonts\obj\Debug\netstandard2.0\XF.Fonts.AssemblyInfo.cs
+C:\Users\admin\Documents\GitHub\XF.Fonts\XF.Fonts\XF.Fonts\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\admin\Documents\GitHub\XF.Fonts\XF.Fonts\XF.Fonts\obj\Debug\netstandard2.0\XF.Fonts.dll
+C:\Users\admin\Documents\GitHub\XF.Fonts\XF.Fonts\XF.Fonts\obj\Debug\netstandard2.0\XF.Fonts.pdb
